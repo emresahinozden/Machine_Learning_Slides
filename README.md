@@ -2,7 +2,6 @@
 Machine Learning Slides from EDA to Statistical Machine Learning
 
 - EDA
-- Feature Selection
 - Sampling and Distributions
 - Statistical Experiments and Significance Testing
 - Regression and Prediction
